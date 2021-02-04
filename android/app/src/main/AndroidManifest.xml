@@ -9,7 +9,7 @@
     
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="projeto_ifpi"
+        android:label="projeto_IFPI"
         android:icon="@mipmap/ic_launcher">
         
         <meta-data android:name="com.google.android.geo.API_KEY"
